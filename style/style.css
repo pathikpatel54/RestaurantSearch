@@ -1,0 +1,27 @@
+form{
+    margin: 1.5rem auto !important;
+    width: 25rem !important;
+}
+ul{
+    margin: 1.5rem auto !important;
+}
+#cityinput{
+    width: 25% !important;
+}
+img{
+    margin-right: 0.8rem !important;
+}
+.container{
+    font-family: 'Open Sans', sans-serif;
+}
+h4{
+    font-weight: 600 !important;
+    margin-bottom: 0.4rem !important;
+}
+p{
+    margin-bottom: 1.5rem !important;
+}
+small{
+    display: block;
+    margin-bottom: 0.2rem !important;
+}
